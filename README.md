@@ -160,7 +160,7 @@
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            I Won a trophy in stste level kabbadi competetion.
+                            I Won a trophy in state level kabbadi competetion.
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
